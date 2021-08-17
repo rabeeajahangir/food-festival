@@ -1,0 +1,30 @@
+{
+  "name": "food-festival",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabeeajahangir/food-festival.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabeeajahangir/food-festival/issues"
+  },
+  "homepage": "https://github.com/rabeeajahangir/food-festival#readme",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.50.0",
+    "webpack-cli": "^4.8.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  }
+}
